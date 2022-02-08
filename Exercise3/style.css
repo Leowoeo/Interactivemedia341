@@ -1,0 +1,125 @@
+
+.left{
+    background-color: aqua;
+    width: 20%;
+}
+
+.top{
+    background-color: blueviolet;
+    width: 80%;
+}
+
+.main {
+  background-color:;
+  width: 10px;
+}
+.circle {
+    width: 100px;
+    height: 100px;
+    background: white;
+    border-radius: 50%;
+    position: relative;
+    left: 22px;
+    top: 15px;
+  }
+  
+.rectangle {
+    width: 150px;
+    height: 800px;
+    background: lightgrey;
+    position: fixed;
+    top: 10px;
+  }
+  
+  .rectangle2 {
+    width: 350px;
+    height: 600px;
+    background: lightgrey;
+    position: fixed;
+    top: 400px;
+    left: 200px;
+  }
+
+  .rectangle3 {
+    width: 300px;
+    height: 700px;
+    background: lightgrey;
+    position: fixed;
+    top: 150px;
+    left: 1000px
+  }
+
+  .text {
+    color: black;
+    position: fixed;
+    left: 370px;
+    top: 410px;
+  }
+
+  .logo {
+    color: black;
+    position: fixed;
+    left: 74px;
+    top: 130px;
+  }
+
+  .toprectangle {
+    width: 280px;
+    height: 30px;
+    background: #6495ED;
+    position: fixed;
+    top: 160px;
+    left: 1010px
+  }
+
+  .middlerectangle {
+    width: 280px;
+    height: 30px;
+    background: #6495ED;
+    position: fixed;
+    top: 400px;
+    left: 1010px
+  }
+
+  .bottomrectangle {
+    width: 280px;
+    height: 30px;
+    background: #6495ED;
+    position: fixed;
+    top: 500px;
+    left: 1010px
+  }
+
+  #searchbar {
+    width: 300px;
+    height: 25px;
+    border: 1px solid black;
+    margin: 42px auto;
+    position: fixed;
+    top: -20px;
+    left: 1000px;
+}
+
+.toptext {
+  color:black;
+  position: fixed;
+  top: 160px;
+  left: 1145px;
+}
+
+
+.line-divider {
+  width: 1100px;
+  height: 2px;
+  background: grey;
+  position: relative;
+  top: 100px;
+  left: 200px;
+}
+
+.title-text {
+  color: black;
+  position: fixed;
+  top: 80px;
+  left: 210px;
+}

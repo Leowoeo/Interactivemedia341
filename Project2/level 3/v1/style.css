@@ -1,0 +1,14 @@
+.bodycopy {
+    text-transform: uppercase;
+}
+
+.box {
+    width: 300px;
+    border: 2px dashed black;
+    padding: 50px;
+    margin: 20px;
+}
+
+.h1 {
+    text-transform: uppercase;
+}

@@ -1,0 +1,19 @@
+.h1 {
+    font-family: 'Space Mono', monospace;
+    color:white;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+.body {
+    font-family: 'Space Mono', monospace;
+    color: white;
+    line-height: 200%;
+}
+.all {
+    padding: 70px;
+    border: 1px solid white;
+}
+.border {
+    border-style: solid;
+    color: white;
+}

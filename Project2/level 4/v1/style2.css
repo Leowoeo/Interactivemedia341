@@ -1,0 +1,20 @@
+.cupboards {
+    text-align: right;
+    font-family: 'Fira Sans', sans-serif;
+}
+.marquee {
+    font-family: 'Fira Sans', sans-serif;
+    text-transform: uppercase;
+}
+
+a:link {
+    color: black;
+  }
+  
+  a:visited {
+    color: black;
+  }
+  
+  a:hover {
+    color: white;
+  }

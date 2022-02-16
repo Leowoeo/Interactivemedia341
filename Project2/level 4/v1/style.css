@@ -1,0 +1,34 @@
+.body {
+    color:whitesmoke;
+    margin-left: 20px;
+    padding: 50px;
+}
+.h1 {
+    font-family: 'Fira Sans', sans-serif;
+    text-transform: uppercase;
+}
+.copy {
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: lighter;
+}
+.for-me {
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-size: larger;
+}
+.p2 {
+    text-align: right;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: lighter;
+}
+a:link {
+    color: white;
+  }
+  
+  a:visited {
+    color: white;
+  }
+  
+  a:hover {
+    color: black;
+  }

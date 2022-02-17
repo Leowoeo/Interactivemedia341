@@ -1,0 +1,35 @@
+.h1 {
+    text-align: center;
+    color: white;
+    font-family: 'Staatliches', 'cursive';
+    font-size: xx-large;
+}
+.body {
+    text-align: center;
+    color: white;
+    font-family: 'Manrope', sans-serif;
+}
+.wavy {
+    text-decoration-line: underline;
+      text-decoration-style: double;
+}
+.wavy2 {
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}
+.wavy3 {
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}
+.wavy4 {
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}
+.h2 {
+    text-align: center;
+    color: white;
+    font-family: 'Staatliches', 'cursive';
+    font-size: xx-large;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}

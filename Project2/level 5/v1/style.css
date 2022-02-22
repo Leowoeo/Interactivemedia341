@@ -1,0 +1,19 @@
+body {padding: 70px;}
+.h1 {
+    font-family: 'Eczar', serif;
+    font-size: large;
+    width: 200px;
+    height: 100px;
+    background: white;
+    transition: width 2s;
+    padding: 70px;
+}
+.h1:hover {
+    width: 1020px;
+  }
+
+.paragraph {
+    font-family: 'Cormorant', serif;
+    color:white;
+    
+}

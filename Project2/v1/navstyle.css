@@ -60,3 +60,23 @@ nav ul li ul li a {
 nav ul li ul li a:hover {
     background-color: #f3f3f3;
 }
+
+
+.box {
+    background: white;
+    width: 60px;
+    height: 60px;
+    margin-left: 1185px;
+    margin-top: 570px;
+    animation: rotate 3s linear infinite;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(359deg);
+    }
+}

@@ -1,0 +1,45 @@
+body {
+  font-family: 'Inconsolata', monospace;
+  font-weight: 700;
+  background: black;
+  color: #fff;
+  padding: 20px;
+}
+.navi a {
+  margin: 6px;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  transition: 0.4s;
+}
+a:hover {
+  color: #fff;
+}
+#second-menu-navi a#tab-1:active,
+#second-menu-navi a#tab-1:hover {
+    background-color: #e20d0d;
+}
+a#tab-2:active,
+a#tab-2:hover {
+    background-color: #ec801a;
+}
+a#tab-3:active,
+a#tab-3:hover {
+    background-color: #eedf14;
+}
+a#tab-4:active,
+a#tab-4:hover {
+    background-color: #14e625;
+}
+a#tab-5:active,
+a#tab-5:hover {
+    background-color: #05186d;
+}
+a#tab-6:active,
+a#tab-6:hover {
+    background-color: #6a159b;
+}
+a#tab-7:active,
+a#tab-7:hover {
+    background-color: #df0986;
+}

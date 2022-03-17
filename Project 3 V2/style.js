@@ -65,3 +65,14 @@ function generateRandomPicture(array){
 	let randomNum = Math.floor(Math.random() * array.length); 
 	image.setAttribute("src", array[randomNum]);
 }
+
+if($(this).width() > $(this).height()) { 
+	$(this).css('width',MaxPreviewDimension+'px');
+	$(this).css('height','auto');
+   } else {
+	$(this).css('height',MaxPreviewDimension+'px');
+	$(this).css('width','auto');
+   }
+   image.style.width = '50%'
+   image.style.height = '50%'
+   

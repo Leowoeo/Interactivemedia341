@@ -2,6 +2,7 @@ html, body {
 	margin: 0;
 	height: 100%;
 	width: 100%;
+	padding-bottom: 10px;
 }
 h1 {
 	font-family: 'JetBrains Mono', monospace;
@@ -37,7 +38,8 @@ header {
 }
 
 img {
-	width: 70%;
+	width: 30%;
+	height: auto;
 }
 
 .flex {
@@ -45,3 +47,14 @@ img {
 	justify-content: center;
 	align-items: center;
 }
+::-webkit-scrollbar {
+	width: 10px;
+  }
+  
+  ::-webkit-scrollbar-track {
+	background: rgb(255, 207, 118); 
+  }
+   
+  ::-webkit-scrollbar-thumb {
+	background: white; 
+  }
